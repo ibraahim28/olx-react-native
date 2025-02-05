@@ -6,7 +6,6 @@ import Icon from 'react-native-vector-icons/FontAwesome'
 const arrow_down = <AntdIcon name='down' size={18} />
 const location = <EntypoIcon name='location-pin' color={'#2958c3'} size={24} />
 const bell = <EntypoIcon name='bell' color={'#000'} size={24} />
-const search = <EntypoIcon name='search' color={'#000'} size={24} />
 const SearchSection = () => {
   return (
     <View style={styles.container}>
